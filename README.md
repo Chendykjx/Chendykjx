@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chendykjx
 - 👀 I’m interested in code
-- 🌱 I’m currently learning cs61a
+- 🌱 I’m currently learning cs61b
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄Pronouns: 
